@@ -37,6 +37,7 @@
 *.suo
 *.opensdf
 *.sdf
+*.sln
 *.VC.db
 *.VC.opendb
 
